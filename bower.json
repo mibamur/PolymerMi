@@ -1,0 +1,25 @@
+{
+  "name": "PolymerMi.git",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mibamur/PolymerMi",
+  "authors": [
+    "mibamur@gmail.com"
+  ],
+  "description": "polymer mi temp",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "template",
+    "jade",
+    "typescript",
+    "inject"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
