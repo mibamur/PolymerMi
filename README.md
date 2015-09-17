@@ -1,6 +1,10 @@
 # PolymerMi
 Polymer 1, Gulp, gulp-Inject, Bower, Jade - Template
 
+[![Stories in Ready](https://badge.waffle.io/mibamur/PolymerMi.svg?label=ready&title=Ready)](http://waffle.io/mibamur/PolymerMi)
+
+
+
 ##Tasks
 
 - [ ] **project done**
