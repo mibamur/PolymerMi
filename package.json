@@ -1,0 +1,26 @@
+{
+  "name": "polymer-mi",
+  "version": "0.0.1",
+  "description": "Polymer 1, Gulp, gulp-Inject, Bower, Jade - Template",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mibamur/PolymerMi.git"
+  },
+  "keywords": [
+    "polymer"
+  ],
+  "author": "mibamur@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mibamur/PolymerMi/issues"
+  },
+  "homepage": "https://github.com/mibamur/PolymerMi#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0"
+  }
+}

@@ -1,6 +1,8 @@
 {
   "directory": "public/vendor",
   "scripts": {
-    "postinstall": "wiredep -s index.html"
+    "preinstall": "wiredep -s index.html",
+    "postinstall": "wiredep -s index.html",
+    "preuninstall": ""
   }
 }
